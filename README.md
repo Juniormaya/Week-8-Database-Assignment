@@ -20,7 +20,7 @@ appointments, and storing prescriptions.
 1. Make sure MySQL is installed and running on your system.
 2. Open your MySQL Workbench.
 3. Import the provided `clinic_booking_system.sql` file to create the database schema.
-Import via Command Line:
+### Import via Command Line:
 ```bash
 mysql -u your_username -p your_database < clinic_booking_system.sql
 ```
